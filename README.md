@@ -15,9 +15,3 @@
 4.  set vscode default formatter to ESLint
 5.  `npm run dev`
 6.  Happy developing!
-
-## Features
-
-[ ] Homepage
-[ ] About
-[ ] Pricing
